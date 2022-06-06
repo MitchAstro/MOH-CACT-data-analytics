@@ -5,7 +5,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-
 #This function reads in the telstra data from csv, cleans the df and reformats strings of dates/times to datetime objects
 def read_telstra(file_path):
     # TRead in the file
