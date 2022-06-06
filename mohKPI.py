@@ -1,9 +1,5 @@
  # -*- coding: utf-8 -*-
-"""
-Created on Fri May 13 07:52:34 2022
 
-@author: 60253052
-"""
 import tkinter as tk
 import pandas as pd
 import sys
