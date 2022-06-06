@@ -32,8 +32,7 @@ def main():
     try:
         # Get user to enter file pathways and assign to variables
         perf_pathway, stat_pathway,rost_pathway = get_user_input()
-        
-        
+                
         #Read in, clean and merge the performance and status csv's into a df
         kpi_df = mh.KPI_DF(perf_pathway, stat_pathway).return_df()
         
