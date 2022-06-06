@@ -7,4 +7,5 @@ The mohKPI package contains the main classes used in the NSW MOH CACT data analy
 
 mohKPI.py focuses on analysing data from the Telephony software Geneys Cloud.  
 
-
+## Calls offered per half hour using mohKPI.py
+This very simple looking program uses the mohKPI package to plot the number of calls offered into MOH CACT queues every half hour for each day.  It requires downloading of the Queue metrics interval report as a CSV file.
