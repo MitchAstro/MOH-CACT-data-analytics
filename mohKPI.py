@@ -73,8 +73,7 @@ class KpiGui:
         #Run infinite loop
         self.win.mainloop()
         
-    
-        
+            
         
     #The get_input function assigns user input to relevant variable to be used in KPI program  
     def get_input(self):
