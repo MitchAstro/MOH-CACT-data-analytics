@@ -1,5 +1,5 @@
 # MOH-CACT-data-analytics
-This repo contains the package mohKPI and the main programs used in the performance analysis of the NSW MOH CACT call centre
+This repo contains the package mohKPI and the main programs used in the performance analysis of the NSW MOH CACT call centre.
 
 
 ## Main package: mohKPI.py 
