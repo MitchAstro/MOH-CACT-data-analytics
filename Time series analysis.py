@@ -44,4 +44,5 @@ def main():
     #Plot the percentage of time spend on handles for each team and each agent for the week every half hour
     mh.Plots_time_series(roster, team_index_list, int_df, time_df)
     
+    
 main()
