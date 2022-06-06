@@ -19,7 +19,7 @@ This program produces a KPI report for offsite teams using their email tails to 
 ## Standard score.py
 Due to the complexity and variety of work tasks within the NSW MOH CACT, a standardised score was developed to fairly compare agents doing different work tasks.  The formula for this score is mathematically derived.  This program produces plots which compare an agents standard score with agents from the same team and a plot which compares teams within MOH CACT.  
 
-## Time series analysis.pu
+## Time series analysis.py
 This program plots the percentage of time spend by each team and each agent on handles for each half hour interval during the day.  It is primarily used to indicate when agents are most active.
 
 
