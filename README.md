@@ -9,9 +9,10 @@ The mohKPI package contains the main classes used in the NSW MOH CACT data analy
 mohKPI.py focuses on analysing data from the Telephony software Geneys Cloud and its use is demonstrated in the programs below.
 
 ## Main KPI report with GUI and user error handling.py
-This program produces summary statistics and plots KPIs of agents and teams.  Since this is the main program, a simple GUI has been built with user error handling for BCP.  Two main KPIs are analysed:
+This program produces summary statistics and plots KPIs of agents and teams.  Since this is the main data analytics program, a simple GUI has been built with user error handling for BCP.  Two main KPIs are analysed:
 1) The number of handles per hour
 2) The percentage of logged in time spend on handles
+In practice this program is wrapped up into an exe file using Pyinstaller to allow non-python users to access this progam,
 
 ## Offsite KPI report.py
 This program produces a KPI report for offsite teams using their email tails to split them out from the Genesys data.  Summary statistics, a status report as a csv file and a csv file ranking agents from worst to best on standardised score is produced.
